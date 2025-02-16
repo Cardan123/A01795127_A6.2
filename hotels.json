@@ -1,0 +1,10 @@
+{
+    "Grand Hotel": {
+        "location": "New York",
+        "rooms": 150
+    },
+    "Ocean View": {
+        "location": "Miami",
+        "rooms": 100
+    }
+}

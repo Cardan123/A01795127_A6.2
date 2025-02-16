@@ -1,0 +1,10 @@
+{
+    "Alice Smith_Grand Hotel": {
+        "customer": "Alice Smith",
+        "hotel": "Grand Hotel"
+    },
+    "Bob Johnson_Ocean View": {
+        "customer": "Bob Johnson",
+        "hotel": "Ocean View"
+    }
+}
